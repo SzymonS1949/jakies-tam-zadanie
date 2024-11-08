@@ -1,0 +1,47 @@
+* {
+    font-family: helvetica;
+}
+header {
+    background-color: #00838F;
+    color: white;
+    padding: 5px;
+    font-size: 130%;
+    text-align: center;
+}
+main {
+    background-color: #efefef;
+    width: 55%;
+    height: 150px;
+    float: left;
+}
+section {
+    background-color: #efefef;
+    width: 55%;
+    height: 300px;
+    float: left;
+}
+aside {
+    background-color: #4fb3bf;
+    width: 45%;
+    height: 450px;
+    float: right;
+    text-align: center;
+}
+footer {
+    background-color: #00838F;
+    color: white;
+    clear: both;
+    text-align: center;
+    padding: 5px;
+    font-size: 130%;
+}
+
+td, th {
+    border: 1px solid #4fb3bf;
+    padding: 4px;
+}
+table {
+    width: 80%;
+    float: left;
+    margin: auto;
+}
